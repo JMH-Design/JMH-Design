@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JMH-Design
 - 👀 I’m interested in Ai development, LLMs, Mobile Apps, and Machine learning
-- 🌱 I’m currently learning Full stack development, Python, React, and Machine learning
-- 💞️ I’m looking to collaborate on LLM, and machine learning projects
+- 🌱 I’m currently learning Javascript, and HTML/CSS -> Python next
+- 💞️ I’m looking to collaborate on LLM, and machine learning projects (eventually)
 - 📫 Connect with me at Jmhaggit@gmail.com
 
 <!---
